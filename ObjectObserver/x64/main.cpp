@@ -121,7 +121,7 @@ void detectAircraftCalculateTrajectory(VideoCapture& cap)
 
 int main(int argc, char** argv)
 {
-    VideoCapture cap("example.mp4");
+    VideoCapture cap("x64\\example.mp4");
     detectAircraftCalculateTrajectory(cap);
     return 0;
 }

@@ -18,5 +18,11 @@
     <ClCompile Include="x64\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="x64\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="x64\example.mp4" />
   </ItemGroup>
 </Project>

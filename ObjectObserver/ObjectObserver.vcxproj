@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\Utilities\OpenCV\opencv\build\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Utilities\OpenCV\opencv\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Projects\VSProjects\Front-IR\OpenCV_AircraftObserver\OpenCV\build\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Projects\VSProjects\Front-IR\OpenCV_AircraftObserver\OpenCV\build\x64\vc16\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>D:\Utilities\OpenCV\opencv\build\include;$(IncludePath)</IncludePath>
@@ -138,6 +138,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="x64\main.cpp" />
+    <ClCompile Include="x64\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="x64\example.mp4" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

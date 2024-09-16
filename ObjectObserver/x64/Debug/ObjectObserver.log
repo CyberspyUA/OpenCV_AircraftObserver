@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are x64\main.cpp, x64\main.cpp.
+  main.cpp
+  main.cpp
+  Generating Code...
+  ObjectObserver.vcxproj -> D:\Projects\Front-IR\ObjectObserver\x64\Debug\ObjectObserver.exe
