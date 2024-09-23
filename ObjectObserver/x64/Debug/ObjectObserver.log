@@ -1,3 +1,12 @@
 ﻿  main.cpp
-D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(34,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(12,22): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(12,22): warning C4244:         with
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(12,22): warning C4244:         [
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(12,22): warning C4244:             _Tp=float
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(12,22): warning C4244:         ]
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(13,22): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(13,22): warning C4244:         with
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(13,22): warning C4244:         [
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(13,22): warning C4244:             _Tp=float
+D:\Projects\Front-IR\ObjectObserver\ObjectObserver\x64\main.cpp(13,22): warning C4244:         ]
   ObjectObserver.vcxproj -> D:\Projects\Front-IR\ObjectObserver\x64\Debug\ObjectObserver.exe
