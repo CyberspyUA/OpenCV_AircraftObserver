@@ -138,7 +138,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="x64\main.cpp" />
-    <ClCompile Include="x64\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Media Include="x64\example.mp4" />
